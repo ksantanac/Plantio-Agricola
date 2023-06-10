@@ -28,6 +28,8 @@ O projeto foi desenvolvido como parte de um desafio de programação. O objetivo
 ### Back-end
 - Python
 
+### IA
+
 ## Estrutura de Arquivos
 
 O projeto possui a seguinte estrutura de arquivos:
