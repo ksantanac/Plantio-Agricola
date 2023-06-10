@@ -36,7 +36,7 @@ Este projeto consiste em um programa que auxilia agricultores no processo de esc
 1. Clone o repositório para sua máquina local.
 2. Certifique-se de ter o Python instalado em sua máquina.
 3. Navegue até o diretório raiz do projeto.
-4. Execute o arquivo `main.py` usando o Python.
+4. Execute o arquivo `gs.py` usando o Python.
 5. Abra o navegador e acesse `http://localhost:8000` para visualizar o programa.
 
 ## Contribuição
