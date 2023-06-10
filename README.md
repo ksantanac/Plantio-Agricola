@@ -32,22 +32,6 @@ O projeto foi desenvolvido como parte de um desafio de programação. O objetivo
 
 O projeto possui a seguinte estrutura de arquivos:
 
-├── index.html
-├── style.css
-├── script.js
-├── images/
-│ ├── imagem1.jpg
-│ ├── imagem2.jpg
-│ └── ...
-├── data/
-│ ├── regiao_norte.json
-│ ├── regiao_nordeste.json
-│ ├── regiao_sul.json
-│ ├── regiao_sudeste.json
-│ └── regiao_centro-oeste.json
-└── README.md
-
-
 - `index.html`: Arquivo HTML principal que contém a estrutura do programa.
 - `style.css`: Arquivo CSS que define o estilo e a aparência do programa.
 - `script.js`: Arquivo JavaScript que contém a lógica e a interatividade do programa.
