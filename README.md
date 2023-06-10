@@ -1,9 +1,14 @@
 # Projeto de Plantio Agrícola
 
-Este projeto consiste em um programa que auxilia agricultores no processo de escolha de cultivos agrícolas de acordo com a região em que estão localizados no Brasil. O programa permite que o usuário cadastre seu nome e selecione a região (Norte, Nordeste, Sul, Sudeste ou Centro-Oeste) em que está localizado. Com base na região selecionada, o programa disponibiliza os 10 principais produtos cultivados nessa região para orientar o usuário sobre quais cultivos são mais comuns e adequados.
+Este projeto consiste em um programa web que auxilia agricultores no processo de escolha de cultivos agrícolas de acordo com a região em que estão localizados no Brasil. O programa permite que o usuário cadastre seu nome e selecione a região (Norte, Nordeste, Sul, Sudeste ou Centro-Oeste) em que está localizado. Com base na região selecionada, o programa disponibiliza os 10 principais produtos cultivados nessa região para orientar o usuário sobre quais cultivos são mais comuns e adequados.
 
 ## Layout Web
+
 ![Web](https://github.com/ksantanac/Challenge/blob/main/teste.png)
+
+## Sobre o Projeto
+
+O projeto foi desenvolvido como parte de um desafio de programação. O objetivo era criar uma ferramenta que ajudasse os agricultores na escolha dos cultivos a serem plantados, considerando a região em que estão localizados no Brasil. O programa fornece informações sobre os cultivos mais comuns e populares em cada região, ajudando os agricultores a tomar decisões mais informadas.
 
 ## Funcionalidades
 
@@ -23,21 +28,39 @@ Este projeto consiste em um programa que auxilia agricultores no processo de esc
 ### Back-end
 - Python
 
-## Integrantes
+## Estrutura de Arquivos
 
-- Kauê Matheus Santana 
-- Igor Miguel Silva 
-- Vinicius Rodrigues 
-- João Pedro Costa Feitosa 
-- Gustavo Rene Dias Boamorte
+O projeto possui a seguinte estrutura de arquivos:
 
-## Como executar o projeto
+├── index.html
+├── style.css
+├── script.js
+├── images/
+│ ├── imagem1.jpg
+│ ├── imagem2.jpg
+│ └── ...
+├── data/
+│ ├── regiao_norte.json
+│ ├── regiao_nordeste.json
+│ ├── regiao_sul.json
+│ ├── regiao_sudeste.json
+│ └── regiao_centro-oeste.json
+└── README.md
+
+
+- `index.html`: Arquivo HTML principal que contém a estrutura do programa.
+- `style.css`: Arquivo CSS que define o estilo e a aparência do programa.
+- `script.js`: Arquivo JavaScript que contém a lógica e a interatividade do programa.
+- `images/`: Pasta que contém as imagens utilizadas no programa.
+- `data/`: Pasta que contém os arquivos JSON com os dados dos cultivos por região.
+- `README.md`: Arquivo que você está lendo atualmente, com informações sobre o projeto.
+
+## Como Executar o Projeto
+
+Para executar o projeto, siga as etapas abaixo:
 
 1. Clone o repositório para sua máquina local.
-2. Certifique-se de ter o Python instalado em sua máquina.
-3. Navegue até o diretório raiz do projeto.
-4. Execute o arquivo `gs.py` usando o Python.
-5. Abra o navegador e acesse `http://localhost:8000` para visualizar o programa.
+2. Abra o arquivo `index.html` em um navegador web.
 
 ## Contribuição
 
@@ -47,10 +70,14 @@ Contribuições são bem-vindas! Se você quiser contribuir para este projeto, s
 2. Crie um branch para a sua feature (`git checkout -b feature/sua-feature`).
 3. Faça as alterações necessárias e adicione os commits (`git add .`).
 4. Faça o push para o branch (`git push origin feature/sua-feature`).
-5. Abra um Pull Request.
+5. Abra um Pull Request descrevendo as alterações propostas.
 
-## Licença
+## Autores
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+- Kauê Matheus Santana
+- Igor Miguel Silva
+- Vinicius Rodrigues
+- João Pedro Costa Feitosa
+- Gustavo Rene Dias Boamorte
 
 
