@@ -4,7 +4,7 @@ Este projeto consiste em um programa web que auxilia agricultores no processo de
 
 ## Layout Web
 
-![Web](https://github.com/ksantanac/Challenge/blob/main/teste.png)
+![Web](https://github.com/ksantanac/Plantio-Agricola/issues/1#issue-1850820812)
 
 ## Sobre o Projeto
 
